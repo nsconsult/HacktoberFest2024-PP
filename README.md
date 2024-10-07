@@ -64,30 +64,22 @@ My Planning is a simple web application for managing tasks (To-Do Lists). This p
 
  
 
-Basic project technology : 
+## Basic project technology : 
 
 
 -Frontend : NuxtJS (OpenSource) to code the Side client 
 
- 
-
 -Backend: NestJs (also OpenSource) to code the API 
-
- 
 
 -Database: Mongo DB (personnal cluster for this project) 
 
- 
-
 -Security: JWT 
-
- 
 
 This project uses MVC architecture  
 
  
 
-How to contribute 
+## How to contribute 
 
     Knowledge of TypeScript, NestJS, and REST APIs. 
 
